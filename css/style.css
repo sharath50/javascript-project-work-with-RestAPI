@@ -1,0 +1,8 @@
+
+.content {
+    background: linear-gradient(45deg , #99ccff , #ff9900) !important;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    padding: 0 200px 0 200px !important;
+}
